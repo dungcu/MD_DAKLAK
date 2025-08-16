@@ -12,13 +12,7 @@ namespace DACASUCO.Properties
     //  The SettingsSaving event is raised before the setting values are saved.
     internal sealed partial class Settings {
         
-        public Settings() {
-            // // To add event handlers for saving and changing settings, uncomment the lines below:
-            //
-            // this.SettingChanging += this.SettingChangingEventHandler;
-            //
-            // this.SettingsSaving += this.SettingsSavingEventHandler;
-            //
+        public Settings() {            
             this["MDSolutionConnectionString"] =  "Data Source=" + MDSolutionEntities.DBModule.ServerName + ";Initial Catalog=" + MDSolutionEntities.DBModule.DatabaseName + ";Persist Security Info=True;User ID=" + MDSolutionEntities.DBModule.UserID + ";Password=" + MDSolutionEntities.DBModule.Password;
             this["MD08ConnectionString"] = "Data Source=" + MDSolutionEntities.DBModule.ServerName + ";Initial Catalog=" + MDSolutionEntities.DBModule.DatabaseName + ";Persist Security Info=True;User ID=" + MDSolutionEntities.DBModule.UserID + ";Password=" + MDSolutionEntities.DBModule.Password;
             this["MDSolution_HĐĐT"] ="Data Source=" + MDSolutionEntities.DBModule.ServerName + ";Initial Catalog=" + MDSolutionEntities.DBModule.DatabaseName + ";Persist Security Info=True;User ID=" + MDSolutionEntities.DBModule.UserID + ";Password=" + MDSolutionEntities.DBModule.Password;                       

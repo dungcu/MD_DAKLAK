@@ -5,9 +5,10 @@
 }
 namespace DACASUCO.MDDataSet
 {
-    
-    
-    public partial class HopDongTrongMiaDataSet {
+
+
+    public partial class HopDongTrongMiaDataSet
+    {
     }
 }
 

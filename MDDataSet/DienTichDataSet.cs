@@ -1,12 +1,13 @@
 ﻿namespace DACASUCO.MDDataSet
 {
-    
-    
-    public partial class DienTichDataSet {
+
+
+    public partial class DienTichDataSet
+    {
         partial class tbl_ThuaRuongDataTable
         {
         }
-    
+
         partial class DataTable1DataTable
         {
         }

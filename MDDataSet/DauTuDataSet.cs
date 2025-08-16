@@ -1,8 +1,9 @@
 ﻿namespace DACASUCO.MDDataSet
 {
-    
-    
-    public partial class DauTuDataSet {
+
+
+    public partial class DauTuDataSet
+    {
     }
 }
 
