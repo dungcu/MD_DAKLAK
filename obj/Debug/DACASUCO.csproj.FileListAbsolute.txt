@@ -1,0 +1,684 @@
+F:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\DACASUCO.exe.config
+F:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\DACASUCO.exe
+F:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\DACASUCO.pdb
+F:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\CrystalDecisions.Enterprise.Viewing.ReportSource.dll
+F:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\CrystalDecisions.Shared.dll
+F:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\MDSolutionEntities.dll
+F:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\Newtonsoft.Json.dll
+F:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\Microsoft.Practices.Unity.dll
+F:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\MDSolutionEntities.pdb
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_CongNoVanChuyen.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmNangSuatSanLuong.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_RP_TheoDoi_NS_SL.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_TongHop_TheoDoi_CongNo.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_TongHop_NhapMia.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_TraCuuTongHop.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmChonDanhMucVatTuChoDonVi.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmDonViCungUngVT.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmLoaiGoc.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_DMVTHH.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frm_Gia_Mia_Theo_Tram_Nong_Vu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.Frm_NoiUngVatTu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.DanhMucLoaiHopDong.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmChonDanhMucVatTuChoDonVi.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmHopDongChuyenVu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmHopDongVanChuyen.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmLamChamSoc.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.MDDataSetForms.frmNhapHoTro.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmVuTrong.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmKhaiBaoXaVanChuyen.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmDienTichDangKy.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.MDDialoge.frmNganHang.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmAdd_Phieu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmAdd_Phieu_Infor.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmBangKeCCS.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmBangKeCNVC.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmBangKeThuMua.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmCF1.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmCVCF.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhSachCacKhoanHoTro.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.MDForms.frmDanhSachNangSuatDuKien.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDinhMucSanLuong.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmGhepMaCan.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmNhapMia.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.MDForms.frmNhapTienTraNo.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmQuanLyDauTuNoCu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyNguoiDung.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyTienTraNo.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmShowRP2.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmThanhToanCongNo.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmThanhToan_DauTu_TruNo.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmThanhToan_TienCo_TruNo.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmTheoDoiThuHoach.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmThietLapVC_Xe.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmChuyenXe.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmChuyenXe_CF.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmConfirm.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmDM_HDDT.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmDM_HDDT_ADD.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmHDVAT.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmNhapGiaMiaCaBiet.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmNhapTSTC.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmQCMC.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmQCTH.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmQLVTHH.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQL_ChamSoc.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmQL_NhapMiaTheoNgay.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyTaiSanTheChap.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyUser.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmSuaTTVC.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmThanhToanVanChuyen.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmTheChan.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmTHTTVanChuyen.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmXoaCM_CF.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmXoaHDDT_CF.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmXoMia.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmChiTietTruNo.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmChiTietTruNoCu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmChuyenVu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDiabanVC.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmHopDongVanChuyen.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyHopDongTrongMia.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhSachCacKhoanNoCu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmNhapNoCuChuHopDong.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmNhapPheCanhChatMia.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmUngVatTuVanChuyen.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_GiaVanChuyen.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_HopDongTrongMiaEdit.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_NhapTB_GiaVC.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frm_ThanhLyHDVC.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.HoTroTapChat.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.MainForm.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.DangKyDauTu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.Form1.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmDangkiDienTich.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmDauTu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmDienTich.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmHopDongMia.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmHopDongMia_ThemMoi.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.MDDialoge.dlgChonDonViCungUng.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmNhapNangSuatChoThuaRuong.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.RPT_TongHopCongNoSanLuongMiaDauTu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.RPT_TongHopCongNoThuMua.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frm_SuaDuLieuCan.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan2013.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan2013_Huy.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan2013_NhapTienTraNo.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan2013_ThemMoi.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan2013_ThemTienTraNo.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan_DuToanThu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan_QuanLyNhapTienMat.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frm_ThanhToan2013_BangTinhLaiCongNoDauTu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frm_ThanhToan2013_TimKiem.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.RPT_BangTongHopThuBangTM.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.RPT_TongHopCongNo.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.RPT_TongHopCongNoConThieuKeHoach.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.RPT_TongHopThanhToanTienMia.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.ChiTietCongNoVanChuyenMia.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.RPT_BinhQuanGia.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.RPT_LapKeHoachThuNoDauTu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.RPT_SoChiTietCongNoThuMuaMia.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.RPT_SoChiTietVanChuyenMiaDaCoThue.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.RPT_TongHopCongNoSanLuongMiaMuaNgoai.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.TimKiemHopDongVanChuyen.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuDoiChieuNhaCanBieu3.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopDienTichNguyenLieuMotTram.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.ChamSoc.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.ChamSocDonDoc.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.CanMiaNgay.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.ChiTietDauTu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.ChiTietDauTuTungCBDB.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.ChiTietDauTuTungTram.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.frmBC_THSL_Ben.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.frmBC_THSL_CBDB.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.frmBC_THSL_Tram.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopCongNoVanChuyenMia.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopDauTuTheoDMDT.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopDauTuTheoNgayThang.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopThanhToan.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuDoiChieuChinhSach.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuDoiChieuNhaCan.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopDoiChieuNhaCan.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopThanhToan.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopThanhToanTheoDot.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopTheoGiongMia.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopPheCanhChatGiong.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.DauTuTongHopDauTuGianTiep.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.DoiChieuChuHopDong.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.DoiChieuXeVanChuyen.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopDauTuGianTiep.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuDienTichKyHopDong.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTienDoTrongMia.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopDauTu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopGiongMia.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopNguyenLieu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopNoDauTu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopVanChuyenCHDVC.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopVanChuyenNgay.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopVanChuyenTheoXeVanChuyen.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.ChiTietDauTuTrucTiepCuaCacCHD.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.frmTongHopNhapMia.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.frmTongHopVanChuyen.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.Frm_ReportViewer.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.THOP.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopDauTu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopDauTuTheoDot.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopDienTichHuyen.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopNguyenLieu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmAbout.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmPrintPreview.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhMucDonVi.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhMucHoTro.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhMucKieuTrong.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhMucLinhVucDauTu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhMucTuDien.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmGiongMia.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmLoaiDat.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmMucDichTrong.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmNhapGiaMia.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmNoiDungChamSoc.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmPheCanh.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmRaiVu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmTramNongVu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmVTUVChuyen.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.dlgChonThonChoThuaRuong.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDialoge.dlgHopDong.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDialoge.dlgHopDongVanChuyen.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDialoge.dlgXeChuaCanBi.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmChonDK_ChoRP.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmEdit_tbl_NhapMia.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmPhanQuyen.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmPhanQuyen_Cum.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyMiaNhap.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmShowRP_DSKH.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmDienTichCoCauTrong.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmShowRP3.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDoiMatKhau.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmNhapTienMat.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmBaiTapKet.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmChiTietChuVanChuyen.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDataConnection.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmLogin.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyDauTuNoCu.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmQuanLyKhauHao.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmShowRP.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmShowRP2.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmShowRP_TheoDonVi.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmStatus.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmThietLapTinhTrangThuaRuong.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmThuHoach.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmTimKiemHopDong.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmTimKiemXeVanChuyen.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmViewHopDong.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.DACASUCO_MAIN.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.Properties.Resources.resources
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.csproj.GenerateResource.Cache
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.exe.licenses
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\RdlCompile.cache
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\RdlCompile.compiled
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.exe
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.pdb
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.csprojResolveAssemblyReference.cache
+G:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\DACASUCO.exe.config
+G:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\DACASUCO.exe
+G:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\DACASUCO.pdb
+G:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\CrystalDecisions.Enterprise.Viewing.ReportSource.dll
+G:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\CrystalDecisions.Shared.dll
+G:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\MDSolutionEntities.dll
+G:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\Newtonsoft.Json.dll
+G:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\Microsoft.Practices.Unity.dll
+G:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+G:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\MDSolutionEntities.pdb
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.csprojResolveAssemblyReference.cache
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_CongNoVanChuyen.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmNangSuatSanLuong.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_RP_TheoDoi_NS_SL.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_TongHop_TheoDoi_CongNo.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_TongHop_NhapMia.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_TraCuuTongHop.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmChonDanhMucVatTuChoDonVi.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmDonViCungUngVT.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmLoaiGoc.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_DMVTHH.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frm_Gia_Mia_Theo_Tram_Nong_Vu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.Frm_NoiUngVatTu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.DanhMucLoaiHopDong.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmChonDanhMucVatTuChoDonVi.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmHopDongChuyenVu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmHopDongVanChuyen.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmLamChamSoc.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.MDDataSetForms.frmNhapHoTro.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmVuTrong.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmKhaiBaoXaVanChuyen.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmDienTichDangKy.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.MDDialoge.frmNganHang.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmAdd_Phieu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmAdd_Phieu_Infor.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmBangKeCCS.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmBangKeCNVC.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmBangKeThuMua.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmCF1.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmCVCF.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhSachCacKhoanHoTro.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.MDForms.frmDanhSachNangSuatDuKien.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDinhMucSanLuong.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmGhepMaCan.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmNhapMia.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.MDForms.frmNhapTienTraNo.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmQuanLyDauTuNoCu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyNguoiDung.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyTienTraNo.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmShowRP2.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmThanhToanCongNo.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmThanhToan_DauTu_TruNo.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmThanhToan_TienCo_TruNo.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmTheoDoiThuHoach.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmThietLapVC_Xe.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmChuyenXe.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmChuyenXe_CF.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmConfirm.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmDM_HDDT.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmDM_HDDT_ADD.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmHDVAT.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmNhapGiaMiaCaBiet.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmNhapTSTC.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmQCMC.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmQCTH.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmQLVTHH.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQL_ChamSoc.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmQL_NhapMiaTheoNgay.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyTaiSanTheChap.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyUser.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmSuaTTVC.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmThanhToanVanChuyen.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmTheChan.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmTHTTVanChuyen.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmXoaCM_CF.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmXoaHDDT_CF.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmXoMia.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmChiTietTruNo.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmChiTietTruNoCu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmChuyenVu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDiabanVC.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmHopDongVanChuyen.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyHopDongTrongMia.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhSachCacKhoanNoCu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmNhapNoCuChuHopDong.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmNhapPheCanhChatMia.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmUngVatTuVanChuyen.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_GiaVanChuyen.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_HopDongTrongMiaEdit.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_NhapTB_GiaVC.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frm_ThanhLyHDVC.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.HeThong.frmComputerControls.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.HeThong.frmPermissionOnControls.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.HeThong.frmSetupPermissionOnControls.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.HoTroTapChat.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.MainForm.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.DangKyDauTu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.Form1.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmDangkiDienTich.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmDauTu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmDienTich.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmHopDongMia.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmHopDongMia_ThemMoi.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.MDDialoge.dlgChonDonViCungUng.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmNhapNangSuatChoThuaRuong.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.RPT_TongHopCongNoSanLuongMiaDauTu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.RPT_TongHopCongNoThuMua.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frm_SuaDuLieuCan.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan2013.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan2013_Huy.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan2013_NhapTienTraNo.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan2013_ThemMoi.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan2013_ThemTienTraNo.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan_DuToanThu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan_QuanLyNhapTienMat.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frm_ThanhToan2013_BangTinhLaiCongNoDauTu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frm_ThanhToan2013_TimKiem.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.RPT_BangTongHopThuBangTM.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.RPT_TongHopCongNo.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.RPT_TongHopCongNoConThieuKeHoach.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.RPT_TongHopThanhToanTienMia.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.ChiTietCongNoVanChuyenMia.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.RPT_BinhQuanGia.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.RPT_LapKeHoachThuNoDauTu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.RPT_SoChiTietCongNoThuMuaMia.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.RPT_SoChiTietVanChuyenMiaDaCoThue.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.RPT_TongHopCongNoSanLuongMiaMuaNgoai.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.TimKiemHopDongVanChuyen.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuDoiChieuNhaCanBieu3.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopDienTichNguyenLieuMotTram.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.ChamSoc.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.ChamSocDonDoc.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.CanMiaNgay.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.ChiTietDauTu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.ChiTietDauTuTungCBDB.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.ChiTietDauTuTungTram.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.frmBC_THSL_Ben.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.frmBC_THSL_CBDB.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.frmBC_THSL_Tram.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopCongNoVanChuyenMia.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopDauTuTheoDMDT.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopDauTuTheoNgayThang.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopThanhToan.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuDoiChieuChinhSach.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuDoiChieuNhaCan.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopDoiChieuNhaCan.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopThanhToan.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopThanhToanTheoDot.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopTheoGiongMia.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopPheCanhChatGiong.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.DauTuTongHopDauTuGianTiep.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.DoiChieuChuHopDong.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.DoiChieuXeVanChuyen.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopDauTuGianTiep.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuDienTichKyHopDong.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTienDoTrongMia.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopDauTu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopGiongMia.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopNguyenLieu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopNoDauTu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopVanChuyenCHDVC.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopVanChuyenNgay.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopVanChuyenTheoXeVanChuyen.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.ChiTietDauTuTrucTiepCuaCacCHD.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.frmTongHopNhapMia.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.frmTongHopVanChuyen.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.Frm_ReportViewer.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.THOP.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopDauTu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopDauTuTheoDot.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopDienTichHuyen.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopNguyenLieu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmAbout.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmPrintPreview.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhMucDonVi.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhMucHoTro.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhMucKieuTrong.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhMucLinhVucDauTu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhMucTuDien.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmGiongMia.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmLoaiDat.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmMucDichTrong.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmNhapGiaMia.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmNoiDungChamSoc.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmPheCanh.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmRaiVu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmTramNongVu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmVTUVChuyen.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.dlgChonThonChoThuaRuong.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDialoge.dlgHopDong.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDialoge.dlgHopDongVanChuyen.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDialoge.dlgXeChuaCanBi.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmChonDK_ChoRP.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmEdit_tbl_NhapMia.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmPhanQuyen.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmPhanQuyen_Cum.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyMiaNhap.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmShowRP_DSKH.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmDienTichCoCauTrong.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmShowRP3.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDoiMatKhau.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmNhapTienMat.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmBaiTapKet.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmChiTietChuVanChuyen.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDataConnection.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmLogin.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyDauTuNoCu.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmQuanLyKhauHao.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmShowRP.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmShowRP2.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmShowRP_TheoDonVi.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmStatus.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmThietLapTinhTrangThuaRuong.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.frmThuHoach.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmTimKiemHopDong.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmTimKiemXeVanChuyen.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmViewHopDong.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.DACASUCO_MAIN.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.Properties.Resources.resources
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.csproj.GenerateResource.Cache
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.exe.licenses
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\RdlCompile.cache
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\RdlCompile.compiled
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.exe
+G:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\DACASUCO.pdb
+D:\Inno\DACNONG\DACASUCO\bin\Debug\DACASUCO.exe.config
+D:\Inno\DACNONG\DACASUCO\bin\Debug\DACASUCO.exe
+D:\Inno\DACNONG\DACASUCO\bin\Debug\DACASUCO.pdb
+D:\Inno\DACNONG\DACASUCO\bin\Debug\MDSolutionEntities.dll
+D:\Inno\DACNONG\DACASUCO\bin\Debug\Newtonsoft.Json.dll
+D:\Inno\DACNONG\DACASUCO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Inno\DACNONG\DACASUCO\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Inno\DACNONG\DACASUCO\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Inno\DACNONG\DACASUCO\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Inno\DACNONG\DACASUCO\bin\Debug\MDSolutionEntities.pdb
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.csprojResolveAssemblyReference.cache
+D:\Inno\DACNONG\DACASUCO\obj\Debug\Interop.UIA.dll
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.csproj.ResolveComReference.cache
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_CongNoVanChuyen.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmNangSuatSanLuong.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_RP_TheoDoi_NS_SL.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_TongHop_TheoDoi_CongNo.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_TongHop_NhapMia.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_TraCuuTongHop.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmChonDanhMucVatTuChoDonVi.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmDonViCungUngVT.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmLoaiGoc.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_DMVTHH.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frm_Gia_Mia_Theo_Tram_Nong_Vu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.Frm_NoiUngVatTu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.DanhMucLoaiHopDong.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmChonDanhMucVatTuChoDonVi.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmHopDongChuyenVu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmHopDongVanChuyen.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmLamChamSoc.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.MDDataSetForms.frmNhapHoTro.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmVuTrong.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmKhaiBaoXaVanChuyen.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmDienTichDangKy.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.MDDialoge.frmNganHang.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmAdd_Phieu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmAdd_Phieu_Infor.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmBangKeCCS.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmBangKeCNVC.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmBangKeThuMua.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmCF1.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmCVCF.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhSachCacKhoanHoTro.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.MDForms.frmDanhSachNangSuatDuKien.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDinhMucSanLuong.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmGhepMaCan.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmNhapMia.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.MDForms.frmNhapTienTraNo.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmQuanLyDauTuNoCu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyNguoiDung.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyTienTraNo.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmShowRP2.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmThanhToanCongNo.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmThanhToan_DauTu_TruNo.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmThanhToan_TienCo_TruNo.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmTheoDoiThuHoach.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmThietLapVC_Xe.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmChuyenXe.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmChuyenXe_CF.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmConfirm.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmDM_HDDT.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmDM_HDDT_ADD.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmHDVAT.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmNhapGiaMiaCaBiet.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmNhapTSTC.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmQCMC.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmQCTH.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmQLVTHH.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQL_ChamSoc.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmQL_NhapMiaTheoNgay.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyTaiSanTheChap.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyUser.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmSuaTTVC.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmThanhToanVanChuyen.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmTheChan.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmTHTTVanChuyen.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmXoaCM_CF.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmXoaHDDT_CF.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmXoMia.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmChiTietTruNo.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmChiTietTruNoCu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmChuyenVu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDiabanVC.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmHopDongVanChuyen.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyHopDongTrongMia.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhSachCacKhoanNoCu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmNhapNoCuChuHopDong.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmNhapPheCanhChatMia.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmUngVatTuVanChuyen.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_GiaVanChuyen.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_HopDongTrongMiaEdit.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frm_NhapTB_GiaVC.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frm_ThanhLyHDVC.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.HeThong.frmComputerControls.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.HeThong.frmPermissionOnControls.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.HeThong.frmSetupPermissionOnControls.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.HoTroTapChat.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.MainForm.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.DangKyDauTu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.Form1.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmDangkiDienTich.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmDauTu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmDienTich.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmHopDongMia.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDataSetForms.frmHopDongMia_ThemMoi.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.MDDialoge.dlgChonDonViCungUng.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmNhapNangSuatChoThuaRuong.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.RPT_TongHopCongNoSanLuongMiaDauTu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.RPT_TongHopCongNoThuMua.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frm_SuaDuLieuCan.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan2013.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan2013_Huy.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan2013_NhapTienTraNo.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan2013_ThemMoi.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan2013_ThemTienTraNo.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan_DuToanThu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frmThanhToan_QuanLyNhapTienMat.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frm_ThanhToan2013_BangTinhLaiCongNoDauTu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.frm_ThanhToan2013_TimKiem.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.RPT_BangTongHopThuBangTM.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.RPT_TongHopCongNo.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.RPT_TongHopCongNoConThieuKeHoach.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.ThanhToan.RPT_TongHopThanhToanTienMia.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.ChiTietCongNoVanChuyenMia.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.RPT_BinhQuanGia.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.RPT_LapKeHoachThuNoDauTu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.RPT_SoChiTietCongNoThuMuaMia.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.RPT_SoChiTietVanChuyenMiaDaCoThue.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.RPT_TongHopCongNoSanLuongMiaMuaNgoai.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.DakNongReport.TimKiemHopDongVanChuyen.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuDoiChieuNhaCanBieu3.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopDienTichNguyenLieuMotTram.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.ChamSoc.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.ChamSocDonDoc.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.CanMiaNgay.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.ChiTietDauTu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.ChiTietDauTuTungCBDB.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.ChiTietDauTuTungTram.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.frmBC_THSL_Ben.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.frmBC_THSL_CBDB.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.frmBC_THSL_Tram.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopCongNoVanChuyenMia.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopDauTuTheoDMDT.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopDauTuTheoNgayThang.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopThanhToan.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuDoiChieuChinhSach.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuDoiChieuNhaCan.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopDoiChieuNhaCan.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopThanhToan.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopThanhToanTheoDot.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopTheoGiongMia.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopPheCanhChatGiong.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.DauTuTongHopDauTuGianTiep.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.DoiChieuChuHopDong.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.DoiChieuXeVanChuyen.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopDauTuGianTiep.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuDienTichKyHopDong.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTienDoTrongMia.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopDauTu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopGiongMia.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopNguyenLieu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopNoDauTu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopVanChuyenCHDVC.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopVanChuyenNgay.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.BieuTongHopVanChuyenTheoXeVanChuyen.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.ChiTietDauTuTrucTiepCuaCacCHD.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.frmTongHopNhapMia.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.frmTongHopVanChuyen.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.Frm_ReportViewer.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.THOP.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopDauTu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopDauTuTheoDot.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopDienTichHuyen.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDReport.FRM_Report.TongHopNguyenLieu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmAbout.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmPrintPreview.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhMucDonVi.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhMucHoTro.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhMucKieuTrong.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhMucLinhVucDauTu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDanhMucTuDien.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmGiongMia.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmLoaiDat.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmMucDichTrong.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmNhapGiaMia.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmNoiDungChamSoc.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmPheCanh.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmRaiVu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmTramNongVu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDanhMuc.frmVTUVChuyen.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.dlgChonThonChoThuaRuong.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDialoge.dlgHopDong.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDialoge.dlgHopDongVanChuyen.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDDialoge.dlgXeChuaCanBi.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmChonDK_ChoRP.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmEdit_tbl_NhapMia.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmPhanQuyen.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmPhanQuyen_Cum.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyMiaNhap.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmShowRP_DSKH.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmDienTichCoCauTrong.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmShowRP3.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDoiMatKhau.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmNhapTienMat.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmBaiTapKet.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmChiTietChuVanChuyen.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmDataConnection.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmLogin.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmQuanLyDauTuNoCu.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmQuanLyKhauHao.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmShowRP.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmShowRP2.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmShowRP_TheoDonVi.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmStatus.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmThietLapTinhTrangThuaRuong.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.frmThuHoach.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmTimKiemHopDong.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmTimKiemXeVanChuyen.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.MDForms.frmViewHopDong.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\MDSolution.DACASUCO_MAIN.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.Properties.Resources.resources
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.csproj.GenerateResource.Cache
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.exe.licenses
+D:\Inno\DACNONG\DACASUCO\obj\Debug\RdlCompile.cache
+D:\Inno\DACNONG\DACASUCO\obj\Debug\RdlCompile.compiled
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.exe
+D:\Inno\DACNONG\DACASUCO\obj\Debug\DACASUCO.pdb

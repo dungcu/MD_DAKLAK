@@ -1,0 +1,371 @@
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\bin\Debug\MDSolution.exe.config
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.exe
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.pdb
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\bin\Debug\MDSolution.exe
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\bin\Debug\MDSolution.pdb
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\ResolveAssemblyReference.cache
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.Frm_NoiUngVatTu.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.frmChonDanhMucVatTuChoDonVi.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.frmHopDongChuyenVu.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.frmHopDongVanChuyen.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.frmLamChamSoc.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.frmNhapTienTraNoVuTruoc.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.frmUngTruocTienMia.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmKhaiBaoXaVanChuyen.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.frmDienTichDangKy.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDialoge.frmNganHang.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmChiTietTruNo.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmChiTietTruNoCu.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmChuyenVu.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmDanhSachMuaVatTuCty.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmEditNganHang.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmNhapLuongMiaKeHoachNgay.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmNhapTienMuaVatTuCty.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmQuanLyHopDongTrongMia.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmQuanLyUngTienMia.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmQuanLyTienTraNo.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmQuanLyChamSoc.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmDanhSachCacKhoanNoCu.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmNhapNoCuChuHopDong.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmNhapPheCanhChatMia.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmNgayChotTinhLai.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmXemNgayCan.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frm_DatNgayMia.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MainForm.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.DangKyDauTu.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.Form1.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.frmDangkiDienTich.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.frmDauTu.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.frmDienTich.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.frmDonViCungUngVT.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.frmHopDongMia.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.frmHopDongMia_ThemMoi.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.frmHopDongVanChuyen_ThemMoi.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.frmNganHang.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.frmNhapHoTro.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDataSetForms.XeVanChuyen_ThemMoi.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDialoge.dlgChonDonViCungUng.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.checkDL.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.Export_DLTheoNgay.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmNhapNangSuatChoThuaRuong.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.Frm_ChonHDChinh.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frm_HopDongTrongMiaEdit.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frm_LamThanhToan.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDoiChieuNhaCanBieu3.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopDienTichNguyenLieuMotTram.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.ChamSoc.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.ChamSocDonDoc.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.CanMiaNgay.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.HoTroTheoSanLuong.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.MauChinhSachMuaVatTuVaUng.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.ThanhToanNganHangTheoDot.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.TruNoCacDonViGianTiep.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.TruNoCacCongTy.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopThanhToan.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDoiChieuChinhSach.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDoiChieuNhaCan.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopDoiChieuNhaCan.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopThanhToan.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopThanhToanTheoDot.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopTheoGiongMia.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopPheCanhChatGiong.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.DauTuTongHopDauTuGianTiep.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.DoiChieuChuHopDong.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.DoiChieuXeVanChuyen.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTuGianTiep.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDienTichKyHopDong.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTienDoTrongMia.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopDauTu.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopGiongMia.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopNguyenLieu.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopNoDauTu.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopVanChuyenCHDVC.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopVanChuyenNgay.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopVanChuyenTheoXeVanChuyen.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.ChiTietDauTuTrucTiepCuaCacCHD.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.frmTongHopNhapMia.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.frmTongHopVanChuyen.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.Frm_ReportViewer.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.NoDauTu.rp_TongNoTruocKhiTru_frm2.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.THOP.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTu.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTuTheoDot.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDienTichHuyen.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopNguyenLieu.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDSolutionAppN.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmAbout.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmPrintPreview.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmSplashScreen.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDSolutionApp.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmDanhMucDonVi.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmDanhMucHoTro.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmDanhMucKieuTrong.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmDanhMucLinhVucDauTu.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmDanhMucTuDien.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDanhMuc.frmGiongMia.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDanhMuc.frmLoaiDat.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDanhMuc.frmMucDichTrong.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDanhMuc.frmNhapGiaMia.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDanhMuc.frmNoiDungChamSoc.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDanhMuc.frmPheCanh.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDanhMuc.frmRaiVu.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDanhMuc.frmTramNongVu.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDanhMuc.frmVTUVChuyen.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDDanhMuc.frmVuTrong.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.dlgChonThonChoThuaRuong.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.dlgHopDong.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.dlgHopDongVanChuyen.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.dlgXeChuaCanBi.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmChonDK_ChoRP.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmEdit_tbl_NhapMia.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmPhanQuyen.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmPhanQuyen_Cum.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmQuanLyMiaNhap.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmShowRP_DSKH.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmDanhSachCacKhoanHoTro.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmDanhSachHoTroLoaiHinh.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmDanhSachNangSuatDuKien.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmDanhsachQuanLyKhauHao.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmDienTichCoCauTrong.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmShowRP3.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmDoiMatKhau.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmHoTroTheoLoaiHinh.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmNhapNangSuatDuKienTheoThon.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmNhapTienHoTro.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmNhapTienMat.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmQuanLyNguoiDung_XacNhanPass.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmSuaTrongLuongMiaNhap.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmThanhToan_TienCo_TruNo.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmTamUngVatTu.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmThanhToan_DauTu_TruNo.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmBaiTapKet.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmChiTietChuVanChuyen.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmDataConnection.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmDinhMucSanLuong.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmGhepMaCan.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmHopDongVanChuyen.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmLogin.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmNhapMia.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmNhapTienTraNo.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmQuanLyDauTuNoCu.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmQuanLyKhauHao.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmQuanLyNguoiDung.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmShowRP.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmShowRP2.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmShowRP_TheoDonVi.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmStatus.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmThanhToanCongNo.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmThanhToanGoiY.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmThanhToanVanChuyen.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmTheoDoiThuHoach.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmThietLapTinhTrangThuaRuong.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmThuHoach.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmTimKiemHopDong.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmTimKiemXeVanChuyen.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.frmUngVatTuVanChuyen.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDForms.frmViewHopDong.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.MDIParent1.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.Properties.Resources.resources
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\GenerateResource.read.1.tlog
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\GenerateResource.write.1.tlog
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\MDSolution.exe.licenses
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\RdlCompile.cache
+D:\namtranhoai\Inno Projects\InnoMD2013\DaCaSuCo\obj\Debug\RdlCompile.compiled
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\bin\Debug\MDSolution.exe.config
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.csproj.ResolveComReference.cache
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.exe
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.pdb
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDanhMuc.frmLoaiGoc.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frm_DMVTHH.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDanhMuc.frm_Gia_Mia_Theo_Tram_Nong_Vu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.Frm_NoiUngVatTu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDataSetForms.DanhMucLoaiHopDong.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDataSetForms.frmChonDanhMucVatTuChoDonVi.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDataSetForms.frmHopDongChuyenVu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDataSetForms.frmHopDongVanChuyen.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDataSetForms.frmLamChamSoc.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDanhMuc.frmVuTrong.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmKhaiBaoXaVanChuyen.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDataSetForms.frmDienTichDangKy.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDialoge.frmNganHang.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmAdd_Phieu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmAdd_Phieu_Infor.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmBangKeCCS.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmBangKeCNVC.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmBangKeThuMua.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmCF1.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmCVCF.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmQuanLyNguoiDung.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmThietLapVC_Xe.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmChuyenXe.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmChuyenXe_CF.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmConfirm.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmDM_HDDT.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmDM_HDDT_ADD.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmHDVAT.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmNhapGiaMiaCaBiet.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmNhapTSTC.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmQCMC.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmQCTH.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmQLVTHH.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmQL_ChamSoc.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmQL_NhapMiaTheoNgay.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmQuanLyTaiSanTheChap.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmQuanLyUser.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmSuaTTVC.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmThanhToanVanChuyen.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmTheChan.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmTHTTVanChuyen.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmXoaCM_CF.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmXoaHDDT_CF.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmXoMia.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmChiTietTruNo.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmChiTietTruNoCu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmChuyenVu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmDiabanVC.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmHopDongVanChuyen.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmQuanLyHopDongTrongMia.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmDanhSachCacKhoanNoCu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmNhapNoCuChuHopDong.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmNhapPheCanhChatMia.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmUngVatTuVanChuyen.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frm_ThanhLyHDVC.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.HoTroTapChat.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MainForm.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDataSetForms.DangKyDauTu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDataSetForms.Form1.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDataSetForms.frmDangkiDienTich.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDataSetForms.frmDauTu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDataSetForms.frmDienTich.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDataSetForms.frmDonViCungUngVT.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDataSetForms.frmHopDongMia.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDataSetForms.frmHopDongMia_ThemMoi.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDialoge.dlgChonDonViCungUng.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmNhapNangSuatChoThuaRuong.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frm_HopDongTrongMiaEdit.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.RPT_TongHopCongNoSanLuongMiaDauTu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.RPT_TongHopCongNoThuMua.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frm_SuaDuLieuCan.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.ThanhToan.frmThanhToan2013.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.ThanhToan.frmThanhToan2013_Huy.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.ThanhToan.frmThanhToan2013_NhapTienTraNo.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.ThanhToan.frmThanhToan2013_ThemMoi.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.ThanhToan.frmThanhToan2013_ThemTienTraNo.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.ThanhToan.frmThanhToan_DuToanThu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.ThanhToan.frmThanhToan_QuanLyNhapTienMat.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.ThanhToan.frm_ThanhToan2013_BangTinhLaiCongNoDauTu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.ThanhToan.frm_ThanhToan2013_TimKiem.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.ThanhToan.RPT_BangTongHopThuBangTM.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.ThanhToan.RPT_TongHopCongNo.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.ThanhToan.RPT_TongHopCongNoConThieuKeHoach.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.ThanhToan.RPT_TongHopThanhToanTienMia.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.DakNongReport.ChiTietCongNoVanChuyenMia.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.DakNongReport.RPT_BinhQuanGia.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.DakNongReport.RPT_LapKeHoachThuNoDauTu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.DakNongReport.RPT_SoChiTietCongNoThuMuaMia.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.DakNongReport.RPT_SoChiTietVanChuyenMiaDaCoThue.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.DakNongReport.RPT_TongHopCongNoSanLuongMiaMuaNgoai.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.DakNongReport.TimKiemHopDongVanChuyen.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDoiChieuNhaCanBieu3.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopDienTichNguyenLieuMotTram.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.ChamSoc.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.ChamSocDonDoc.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.CanMiaNgay.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.ChiTietDauTu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.ChiTietDauTuTungCBDB.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.ChiTietDauTuTungTram.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.frmBC_THSL_Ben.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.frmBC_THSL_CBDB.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.frmBC_THSL_Tram.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopCongNoVanChuyenMia.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTuTheoDMDT.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTuTheoNgayThang.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopThanhToan.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDoiChieuChinhSach.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDoiChieuNhaCan.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopDoiChieuNhaCan.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopThanhToan.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopThanhToanTheoDot.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopTheoGiongMia.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopPheCanhChatGiong.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.DauTuTongHopDauTuGianTiep.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.DoiChieuChuHopDong.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.DoiChieuXeVanChuyen.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTuGianTiep.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.BieuDienTichKyHopDong.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTienDoTrongMia.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopDauTu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopGiongMia.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopNguyenLieu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopNoDauTu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopVanChuyenCHDVC.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopVanChuyenNgay.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.BieuTongHopVanChuyenTheoXeVanChuyen.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.ChiTietDauTuTrucTiepCuaCacCHD.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.frmTongHopNhapMia.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.frmTongHopVanChuyen.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.Frm_ReportViewer.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.THOP.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDauTuTheoDot.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopDienTichHuyen.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDReport.FRM_Report.TongHopNguyenLieu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDSolutionAppN.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmAbout.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmPrintPreview.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmSplashScreen.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDSolutionApp.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmDanhMucDonVi.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmDanhMucHoTro.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmDanhMucKieuTrong.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmDanhMucLinhVucDauTu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmDanhMucTuDien.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDanhMuc.frmGiongMia.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDanhMuc.frmLoaiDat.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDanhMuc.frmMucDichTrong.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDanhMuc.frmNhapGiaMia.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDanhMuc.frmNoiDungChamSoc.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDanhMuc.frmPheCanh.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDanhMuc.frmRaiVu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDanhMuc.frmTramNongVu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDDanhMuc.frmVTUVChuyen.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.dlgChonThonChoThuaRuong.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.dlgHopDong.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.dlgHopDongVanChuyen.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.dlgXeChuaCanBi.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmChonDK_ChoRP.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmEdit_tbl_NhapMia.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmPhanQuyen.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmPhanQuyen_Cum.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmQuanLyMiaNhap.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmShowRP_DSKH.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmDienTichCoCauTrong.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmShowRP3.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmDoiMatKhau.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmNhapTienMat.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmBaiTapKet.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmChiTietChuVanChuyen.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmDataConnection.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmLogin.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmQuanLyDauTuNoCu.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmQuanLyKhauHao.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmShowRP.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmShowRP2.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmShowRP_TheoDonVi.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmStatus.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmThietLapTinhTrangThuaRuong.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.frmThuHoach.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmTimKiemHopDong.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmTimKiemXeVanChuyen.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDForms.frmViewHopDong.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.MDIParent1.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.Properties.Resources.resources
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.csproj.GenerateResource.Cache
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.exe.licenses
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\bin\Debug\MDSolution.exe
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\bin\Debug\MDSolution.pdb
+D:\Projects\38.MD2013\1.INNOMD2013\DACASUCO\obj\Debug\MDSolution.csprojResolveAssemblyReference.cache
+F:\MIA DUONG\DACNONG\DACASUCO\bin\Debug\MDSolution.exe.config
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.csproj.ResolveComReference.cache
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.exe
+F:\MIA DUONG\DACNONG\DACASUCO\obj\Debug\MDSolution.pdb
